@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marcelo@ledrenche.fr
+	name = marcelo krafft
